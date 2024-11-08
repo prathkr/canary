@@ -25,7 +25,7 @@ config:
     appColor: "white"
     welcomeMessage: "Welcome to Upcommerce.com!"
   canary:
-    appColor: "green"
+    appColor: "red"
     welcomeMessage: "Welcome to Upcommerce.com Canary!"
 
 serviceMonitor:
